@@ -1,0 +1,8 @@
+.movie-list {
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.card {
+  cursor: pointer;
+}
