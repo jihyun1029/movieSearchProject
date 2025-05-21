@@ -1,5 +1,4 @@
 .movie-list {
-  flex-wrap: wrap;
   justify-content: space-between;
 }
 
